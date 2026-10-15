@@ -1,0 +1,61 @@
+/* Fixed, even pixel sizes: responsive changes happen only at breakpoints. */
+:root {
+  --font-xs:12px;
+  --font-sm:14px;
+  --font-body:16px;
+  --font-lead:20px;
+  --font-hero:128px;
+  --font-section:80px;
+  --font-project:64px;
+  --font-service:40px;
+  --font-price:96px;
+  --font-person:48px;
+  --font-contact:96px;
+  --font-action:32px;
+  --font-promise:28px;
+  --font-care:40px;
+}
+body,button,input,select,textarea { font-size:var(--font-body); }
+small { font-size:var(--font-sm); }
+.brand { font-size:24px; }
+.nav>a:not(.nav-cta),.nav-cta,.btn,.project-open { font-size:var(--font-body); }
+.mono,.eyebrow,.pill,.section-index,.price-label,.contact-heading .eyebrow { font-size:var(--font-xs); }
+.hero h1 { font-size:var(--font-hero); }
+.hero-copy,.section-heading p,.services-intro>p,.team-intro>p,.final-cta .contact-copy>p { font-size:var(--font-lead); }
+.hero-note,.hero-scroll { font-size:var(--font-xs); }
+.section-heading h2,.big-heading,.services-intro .big-heading,.team-intro h2 { font-size:var(--font-section); }
+.project-copy h3 { font-size:var(--font-project); }
+.project-copy p,.service-desc,.service-story>p,.service-deliverables li,.service-shared p,.service-shared ul,.team-bio p { font-size:var(--font-body); }
+.service h3 { font-size:var(--font-service); }
+.service-price strong { font-size:var(--font-price); }
+.service-fit,.service-price .price-label,.service-deliverables h4,.service-foot,.team-role,.team-portrait figcaption { font-size:var(--font-xs); }
+.service-scope { font-size:24px; }
+.service-shared h3 { font-size:var(--font-care); }
+.team-equation { font-size:var(--font-sm); }
+.team-bio h3 { font-size:var(--font-person); }
+.team-link span { font-size:32px; }
+.team-promise p { font-size:var(--font-promise); }
+.contact-heading-note,.final-cta .contact-signature p { font-size:var(--font-sm); }
+.contact-copy h2 { font-size:var(--font-contact); }
+.contact-action>span { font-size:var(--font-action); }
+.contact-action>small { font-size:var(--font-xs); }
+.footer small { font-size:var(--font-sm); }
+.modal-identity .eyebrow { font-size:var(--font-xs); }
+.modal-header h2 { font-size:18px; }
+.project-loading { font-size:var(--font-body); }
+.pdf-zoom button { font-size:var(--font-xs); }
+@media(max-width:1100px) {
+  :root { --font-hero:96px; --font-section:64px; --font-project:56px; --font-service:32px; --font-price:80px; --font-person:40px; --font-contact:64px; --font-action:28px; }
+}
+@media(max-width:680px) {
+  :root { --font-hero:64px; --font-section:48px; --font-project:40px; --font-service:28px; --font-price:56px; --font-person:32px; --font-contact:48px; --font-action:24px; --font-promise:20px; --font-care:32px; --font-lead:18px; }
+  .brand { font-size:20px; }
+  .contact-heading-note,.final-cta .contact-signature p { font-size:var(--font-xs); }
+  .modal-header h2 { font-size:var(--font-body); }
+}
+/* A more open rhythm for display and section titles. */
+.hero h1 { letter-spacing:-.04em; }
+.section-heading h2,.big-heading,.services-intro .big-heading,.team-intro h2,.contact-copy h2 { letter-spacing:-.03em; }
+.project-copy h3,.service h3,.team-bio h3,.service-shared h3 { letter-spacing:-.025em; }
+.modal-header h2 { letter-spacing:-.01em; }
+@media(max-width:360px) { :root { --font-hero:56px; } }

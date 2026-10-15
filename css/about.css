@@ -1,0 +1,179 @@
+.about {
+  --team-text:#e8f4ef;
+  --team-muted:#bfd5cf;
+  --team-line:rgba(232,244,239,.22);
+  padding-block:clamp(80px,8vw,125px);
+  background:var(--ink);
+  color:var(--team-text);
+}
+.team-layout {
+  display:grid;
+  gap:56px;
+}
+.team-intro h2 {
+  margin:24px 0 26px;
+  
+  font-weight:800;
+  line-height:.98;
+  letter-spacing:-.075em;
+}
+.team-intro > p {
+  max-width:360px;
+  margin:0;
+  color:var(--team-muted);
+  
+  line-height:1.65;
+}
+.team-equation {
+  display:flex;
+  align-items:center;
+  gap:16px;
+  margin-top:30px;
+  
+}
+.team-equation .lucide {
+  width:20px;
+  height:20px;
+  color:var(--green);
+}
+.team-people { min-width:0; }
+.team-member {
+  display:grid;
+  grid-template-columns:112px minmax(0,1fr);
+  align-items:center;
+  gap:24px;
+}
+.team-portrait {
+  margin:0;
+  padding:7px 7px 0;
+  background:var(--paper);
+  color:var(--ink);
+  transform:rotate(-4deg);
+  box-shadow:7px 9px 0 rgba(0,0,0,.13);
+  transition:transform .25s ease;
+}
+.team-member:hover .team-portrait { transform:rotate(0deg); }
+.team-photo-window {
+  height:128px;
+  overflow:hidden;
+}
+.team-portrait img {
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+.team-member-irina img { object-position:center 30%; }
+.team-member-renzo img { object-position:center 38%; }
+.team-portrait figcaption {
+  padding:10px 0 11px;
+  text-align:center;
+  
+  font-weight:600;
+}
+.team-role {
+  display:flex;
+  align-items:center;
+  gap:8px;
+  color:var(--team-muted);
+  
+  line-height:1.5;
+}
+.team-role .lucide {
+  width:15px;
+  height:15px;
+  color:var(--green);
+}
+.team-bio h3 {
+  margin:8px 0 12px;
+  
+  line-height:1;
+  font-weight:700;
+  letter-spacing:-.06em;
+}
+.team-bio p {
+  max-width:350px;
+  margin:0;
+  
+  line-height:1.65;
+  color:var(--team-muted);
+}
+.team-link {
+  display:flex;
+  align-items:center;
+  gap:20px;
+  padding-block:18px;
+  color:var(--green);
+}
+.team-link::before,.team-link::after {
+  content:'';
+  height:1px;
+  background:var(--team-line);
+  flex:1;
+}
+.team-link span {
+  font-family:'Funnel Sans',sans-serif;
+  font-style:normal;
+  
+  line-height:1;
+}
+.team-member-renzo { grid-template-columns:minmax(0,1fr) 112px; }
+.team-member-renzo .team-portrait { grid-column:2; grid-row:1; transform:rotate(4deg); }
+.team-member-renzo .team-bio { grid-column:1; grid-row:1; }
+.team-member-renzo:hover .team-portrait { transform:rotate(0deg); }
+.team-promise {
+  display:flex;
+  align-items:flex-start;
+  gap:20px;
+  border-top:1px solid var(--team-line);
+  padding-top:32px;
+  margin-top:52px;
+}
+.team-promise-icon {
+  display:grid;
+  place-items:center;
+  width:44px;
+  height:44px;
+  flex-shrink:0;
+  border:1px solid var(--team-line);
+  border-radius:50%;
+  color:var(--green);
+}
+.team-promise-icon .lucide { width:22px; height:22px; }
+.team-promise p {
+  margin:0;
+  
+  line-height:1.45;
+  letter-spacing:-.025em;
+}
+.team-promise p span { color:var(--team-muted); }
+@media(min-width:760px) {
+  .team-promise { padding-inline:20px; }
+  .team-layout {
+    grid-template-columns:.9fr 1.1fr;
+    align-items:center;
+    gap:clamp(40px,6vw,100px);
+  }
+  .team-member { grid-template-columns:140px minmax(0,1fr); gap:30px; }
+  .team-photo-window { height:162px; }
+  .team-portrait figcaption {  }
+  .team-role {  }
+  .team-bio p {  }
+  .team-member-renzo { grid-template-columns:minmax(0,1fr) 140px; }
+  .team-link { padding-block:28px; }
+}
+@media(min-width:1100px) {
+  .team-member { grid-template-columns:160px minmax(0,1fr); gap:36px; }
+  .team-member-renzo { grid-template-columns:minmax(0,1fr) 160px; margin-left:30px; }
+  .team-photo-window { height:184px; }
+  .team-promise { margin-top:60px; }
+}
+@media(max-width:360px) {
+  .team-member { grid-template-columns:96px minmax(0,1fr); gap:18px; }
+  .team-member-renzo { grid-template-columns:minmax(0,1fr) 96px; }
+  .team-photo-window { height:115px; }
+  .team-role {  }
+  .team-portrait figcaption {  }
+}
+@media(prefers-reduced-motion:reduce) {
+  .team-portrait { transition:none; }
+}

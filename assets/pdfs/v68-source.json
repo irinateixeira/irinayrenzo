@@ -1,0 +1,24 @@
+[
+  {
+    "project": "ceremonia",
+    "source_html": "irina_portfolio_v68_sin_service_symbols.html",
+    "file": "assets\\pdfs\\ceremonia-v68.pdf",
+    "size": [
+      2275,
+      6706
+    ],
+    "source_image_sha256": "ccb0d5ab7b84637f780d16af43bf478facd845e98771492e8a1679e98f694d6c",
+    "pixels_preserved": true
+  },
+  {
+    "project": "flytransfer",
+    "source_html": "irina_portfolio_v68_sin_service_symbols.html",
+    "file": "assets\\pdfs\\flytransfer-v68.pdf",
+    "size": [
+      2275,
+      6888
+    ],
+    "source_image_sha256": "5bf9973bed0d5d9986b5051d0fb30c31cfe0f6ebedb037fe486f9530aa6d3c94",
+    "pixels_preserved": true
+  }
+]

@@ -1,0 +1,162 @@
+.project-modal {
+  --modal-accent:#96316c;
+  width:min(1440px,calc(100% - 48px));
+  height:calc(100dvh - 48px);
+  max-width:none;
+  max-height:none;
+  margin:auto;
+  padding:0;
+  overflow:hidden;
+  border:1px solid color-mix(in srgb,var(--modal-accent) 35%,white);
+  border-radius:14px;
+  color:#242424;
+  background:#f8f8f8;
+  box-shadow:0 24px 100px #00191b50;
+}
+.project-modal[data-theme="flytransfer"] {
+  --modal-accent:#254e49;
+}
+.project-modal::backdrop {
+  background:rgba(3,30,33,.78);
+  backdrop-filter:blur(8px);
+}
+.modal-header {
+  display:flex;
+  align-items:center;
+  gap:10px;
+  height:66px;
+  padding:0 22px;
+  border-bottom:1px solid #e1e1e1;
+  background:#f8f8f8;
+}
+.modal-identity {
+  display:flex;
+  align-items:baseline;
+  gap:14px;
+  margin-right:auto;
+}
+.modal-identity .eyebrow {
+  
+  color:#666;
+}
+.modal-header h2 {
+  
+  letter-spacing:-.04em;
+  margin:0;
+  font-weight:700;
+  color:var(--modal-accent);
+}
+.modal-close {
+  display:grid;
+  place-items:center;
+  width:40px;
+  height:40px;
+  padding:0;
+  border-radius:50%;
+  border:1px solid #d2d2d2;
+  background:transparent;
+  color:#252525;
+}
+.modal-close {
+  cursor:pointer;
+}
+.modal-close:hover {
+  background:#e9e9e9;
+  border-color:#999;
+}
+.modal-close .lucide {
+  width:20px;
+  height:20px;
+}
+.modal-content {
+  position:relative;
+  height:calc(100% - 66px);
+}
+.project-frame {
+  display:block;
+  border:0;
+  width:100%;
+  height:100%;
+  background:#f8f8f8;
+}
+.project-loading {
+  position:absolute;
+  z-index:2;
+  inset:0;
+  margin:0;
+  padding:28px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  gap:16px;
+  text-align:center;
+  background:#f8f8f8;
+  
+  color:#333;
+}
+.project-loading::before {
+  content:'';
+  width:28px;
+  height:28px;
+  border:2px solid #ddd;
+  border-top-color:var(--modal-accent);
+  border-radius:50%;
+  animation:project-loading-spin .8s linear infinite;
+}
+.project-loading.error::before {
+  display:none;
+}
+.project-loading a {
+  text-decoration:underline;
+  text-underline-offset:4px;
+}
+@keyframes project-loading-spin {
+  to {
+    transform:rotate(360deg);
+  }
+}
+@media(max-width:680px) {
+  .project-modal {
+    width:100%;
+    height:100dvh;
+    border:0;
+    border-radius:0;
+  }
+  .modal-header {
+    height:60px;
+    padding-inline:14px;
+  }
+  .modal-content {
+    height:calc(100% - 60px);
+  }
+  .modal-identity .eyebrow {
+    display:none;
+  }
+}
+@media(prefers-reduced-motion:reduce) {
+  .project-loading::before {
+    animation:none;
+  }
+}
+
+/* The document itself scrolls, so its original final button can animate to the top. */
+.pdf-scroll { height:100%; overflow:auto; overscroll-behavior:contain; background:#f8f8f8; }
+.pdf-sheet { position:relative; width:100%; }
+.pdf-sheet canvas { display:block; width:100%; height:auto; }
+.pdf-back-top { position:absolute; transform:translate(-50%,-50%); min-width:44px; min-height:44px; border:0; padding:0; border-radius:50%; background:transparent; cursor:pointer; }
+.pdf-back-top:focus-visible { outline:3px solid var(--modal-accent); outline-offset:4px; }
+.pdf-scroll:focus-visible { outline:2px solid var(--modal-accent); outline-offset:-2px; }
+.pdf-zoom { display:flex; align-items:center; flex-shrink:0; gap:0; border:1px solid #b8b8b8; border-radius:100px; }
+.pdf-zoom button { display:grid; place-items:center; min-width:44px; min-height:44px; padding:0 8px; border:0; border-radius:100px; color:#242424; background:transparent; font-variant-numeric:tabular-nums; cursor:pointer; }
+.pdf-zoom button[data-zoom="reset"] { min-width:52px; }
+.pdf-zoom button:hover:not(:disabled) { background:#e9e9e9; }
+.pdf-zoom button:disabled { opacity:.35; cursor:default; }
+.pdf-zoom .lucide { width:18px; height:18px; }
+.pdf-scroll { touch-action:pan-x pan-y; overflow-anchor:none; }
+.modal-close { width:44px; height:44px; flex-shrink:0; }
+@media(max-width:680px) {
+ .modal-header { gap:6px; padding-inline:10px; }
+ .modal-identity { gap:0; min-width:0; }
+ .modal-header h2 { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+}

@@ -1,0 +1,1594 @@
+{
+  "visible": [
+    {
+      "id": "WEB-HEADER-001",
+      "section": "Header",
+      "location": "Botón o enlace",
+      "current": "irina & renzo",
+      "mapping": {
+        "kind": "text",
+        "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-HEADER-002",
+      "section": "Header",
+      "location": "Botón o enlace",
+      "current": "Nuestros trabajos",
+      "mapping": {
+        "kind": "text",
+        "selector": "#main-nav > a:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-HEADER-003",
+      "section": "Header",
+      "location": "Botón o enlace",
+      "current": "Precios",
+      "mapping": {
+        "kind": "text",
+        "selector": "#main-nav > a:nth-of-type(2)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-HEADER-004",
+      "section": "Header",
+      "location": "Botón o enlace",
+      "current": "Sobre nosotros",
+      "mapping": {
+        "kind": "text",
+        "selector": "#main-nav > a:nth-of-type(3)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-HEADER-005",
+      "section": "Header",
+      "location": "Botón o enlace",
+      "current": "Charlemos",
+      "mapping": {
+        "kind": "text",
+        "selector": "#main-nav > a:nth-of-type(4)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-INICIO-001",
+      "section": "Inicio",
+      "location": "Título h1",
+      "current": "Diseñemos",
+      "mapping": {
+        "kind": "text",
+        "selector": "#inicio > div:nth-of-type(2) > h1:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-INICIO-002",
+      "section": "Inicio",
+      "location": "Título h1",
+      "current": "tu web",
+      "mapping": {
+        "kind": "text",
+        "selector": "#inicio > div:nth-of-type(2) > h1:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-INICIO-003",
+      "section": "Inicio",
+      "location": "Descripción",
+      "current": "Tenés una idea. Nosotros la convertimos en una web que se ve bien, se entiende fácil y trabaja para tu negocio.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#hero-copy",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-INICIO-004",
+      "section": "Inicio",
+      "location": "Botón o enlace",
+      "current": "Charlemos",
+      "mapping": {
+        "kind": "text",
+        "selector": "#inicio > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-INICIO-005",
+      "section": "Inicio",
+      "location": "hero-note",
+      "current": "No hace falta que sepas de tecnología para empezar.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#hero-note",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-INICIO-006",
+      "section": "Inicio",
+      "location": "Botón o enlace",
+      "current": "Seguí bajando",
+      "mapping": {
+        "kind": "text",
+        "selector": "#inicio > a:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-001",
+      "section": "Nuestros trabajos",
+      "location": "Eyebrow",
+      "current": "Nuestros trabajos",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-002",
+      "section": "Nuestros trabajos",
+      "location": "Título h2",
+      "current": "Nuestros",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-003",
+      "section": "Nuestros trabajos",
+      "location": "Título h2",
+      "current": "trabajos",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "childIndex": 2
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-004",
+      "section": "Nuestros trabajos",
+      "location": "Descripción",
+      "current": "Ideas distintas, soluciones a medida. Un vistazo a algunas webs que cobraron vida.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-005",
+      "section": "Nuestros trabajos",
+      "location": "Ceremonia / Eyebrow",
+      "current": "WEB EXPRESS / 01",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-006",
+      "section": "Nuestros trabajos",
+      "location": "Ceremonia / Título h3",
+      "current": "Ceremonia",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-007",
+      "section": "Nuestros trabajos",
+      "location": "Ceremonia / Botón o enlace",
+      "current": "Ver proyecto",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-008",
+      "section": "Nuestros trabajos",
+      "location": "Ceremonia / Descripción",
+      "current": "Una web para transmitir la personalidad de un salón de belleza y ayudar a generar más reservas.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-009",
+      "section": "Nuestros trabajos",
+      "location": "Flytransfer / Eyebrow",
+      "current": "WEB / 02",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-010",
+      "section": "Nuestros trabajos",
+      "location": "Flytransfer / Título h3",
+      "current": "Flytransfer",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h3:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-011",
+      "section": "Nuestros trabajos",
+      "location": "Flytransfer / Botón o enlace",
+      "current": "Ver proyecto",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-NUESTROS_TRABAJOS-012",
+      "section": "Nuestros trabajos",
+      "location": "Flytransfer / Descripción",
+      "current": "Una experiencia más clara para descubrir traslados y organizar un viaje sin complicaciones.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-001",
+      "section": "Precios",
+      "location": "Eyebrow",
+      "current": "Precios",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-002",
+      "section": "Precios",
+      "location": "Título h2",
+      "current": "Una web para",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-003",
+      "section": "Precios",
+      "location": "Título h2",
+      "current": "cada momento",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+        "childIndex": 2
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-004",
+      "section": "Precios",
+      "location": "Descripción",
+      "current": "No tenés que saber qué tipo de web necesitás. Contanos qué querés lograr y buscamos juntos la mejor opción.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-005",
+      "section": "Precios",
+      "location": "Web Express / service-fit",
+      "current": "Salir al mundo",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > summary:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-006",
+      "section": "Precios",
+      "location": "Web Express / Título h3",
+      "current": "Web Express",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > summary:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-007",
+      "section": "Precios",
+      "location": "Web Express / Descripción",
+      "current": "Para dar el primer paso: una página clara y atractiva con todo lo importante de tu negocio.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > summary:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-008",
+      "section": "Precios",
+      "location": "Web Express / price-label",
+      "current": "Desde USD",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > summary:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-009",
+      "section": "Precios",
+      "location": "Web Express / summary",
+      "current": "290",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > summary:nth-of-type(1) > div:nth-of-type(2) > strong:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-010",
+      "section": "Precios",
+      "location": "Web Express / Descripción",
+      "current": "Todo lo que necesitás para empezar a mostrar tu negocio en internet. Una página clara, atractiva y fácil de usar, donde tus futuros clientes puedan conocerte y contactarte.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-011",
+      "section": "Precios",
+      "location": "Web Express / service-scope",
+      "current": "Una página. Todo lo esencial.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-012",
+      "section": "Precios",
+      "location": "Web Express / Título h4",
+      "current": "Lo que hacemos realidad",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-013",
+      "section": "Precios",
+      "location": "Web Express / Punto de la lista",
+      "current": "Una página con toda la información importante de tu negocio, que se ve bien en cualquier dispositivo.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-014",
+      "section": "Precios",
+      "location": "Web Express / Punto de la lista",
+      "current": "Formas de contacto fáciles de encontrar y una web preparada para aparecer en Google.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-015",
+      "section": "Precios",
+      "location": "Web Express / Punto de la lista",
+      "current": "Tu propia dirección web y un correo con el nombre de tu negocio.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-016",
+      "section": "Precios",
+      "location": "Web Express / Punto de la lista",
+      "current": "La posibilidad de cambiar textos e imágenes cuando quieras.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-017",
+      "section": "Precios",
+      "location": "Web Express / Punto de la lista",
+      "current": "Herramientas para conocer tus visitas y conectar otros servicios.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-018",
+      "section": "Precios",
+      "location": "Web Express / Punto de la lista",
+      "current": "Acompañamiento para aprender a usar tu web y mantenerla funcionando.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-019",
+      "section": "Precios",
+      "location": "Web / service-fit",
+      "current": "Tener espacio para contar",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > summary:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-020",
+      "section": "Precios",
+      "location": "Web / Título h3",
+      "current": "Web",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > summary:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-021",
+      "section": "Precios",
+      "location": "Web / Descripción",
+      "current": "Para contar más: un espacio propio con distintas páginas, servicios e información bien organizada.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > summary:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-022",
+      "section": "Precios",
+      "location": "Web / price-label",
+      "current": "Desde USD",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > summary:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-023",
+      "section": "Precios",
+      "location": "Web / summary",
+      "current": "490",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > summary:nth-of-type(1) > div:nth-of-type(2) > strong:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-024",
+      "section": "Precios",
+      "location": "Web / Descripción",
+      "current": "Tu negocio tiene mucho para contar y merece un espacio a su medida. Una web con distintas secciones para mostrar tus servicios, responder dudas y ayudar a tus clientes a encontrar lo que buscan.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-025",
+      "section": "Precios",
+      "location": "Web / service-scope",
+      "current": "Más páginas. Más posibilidades.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-026",
+      "section": "Precios",
+      "location": "Web / Título h4",
+      "current": "Lo que hacemos realidad",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-027",
+      "section": "Precios",
+      "location": "Web / Punto de la lista",
+      "current": "Una web con varias páginas para organizar toda la información de tu negocio.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-028",
+      "section": "Precios",
+      "location": "Web / Punto de la lista",
+      "current": "Un diseño personalizado, fácil de recorrer desde el celular o la computadora.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-029",
+      "section": "Precios",
+      "location": "Web / Punto de la lista",
+      "current": "Formas de contacto y una web preparada para aparecer en Google.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-030",
+      "section": "Precios",
+      "location": "Web / Punto de la lista",
+      "current": "Tu propia dirección web y un correo con el nombre de tu negocio.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-031",
+      "section": "Precios",
+      "location": "Web / Punto de la lista",
+      "current": "La posibilidad de actualizar contenidos, conocer tus visitas y conectar otras herramientas.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-032",
+      "section": "Precios",
+      "location": "Web / Punto de la lista",
+      "current": "Acompañamiento para aprender a usar tu web y mantenerla funcionando.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-033",
+      "section": "Precios",
+      "location": "Webapp / service-fit",
+      "current": "Hacer que algo funcione",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > summary:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-034",
+      "section": "Precios",
+      "location": "Webapp / Título h3",
+      "current": "Webapp",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > summary:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-035",
+      "section": "Precios",
+      "location": "Webapp / Descripción",
+      "current": "Para hacer más: una herramienta online a medida que ayuda a tus clientes o simplifica tu trabajo.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > summary:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-036",
+      "section": "Precios",
+      "location": "Webapp / price-label",
+      "current": "Desde USD",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > summary:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-037",
+      "section": "Precios",
+      "location": "Webapp / summary",
+      "current": "790",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > summary:nth-of-type(1) > div:nth-of-type(2) > strong:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-038",
+      "section": "Precios",
+      "location": "Webapp / Descripción",
+      "current": "¿Tenés una idea que necesita algo más que una página web? Creamos una herramienta a medida para que tus clientes puedan hacer cosas online o para simplificar tareas de tu negocio.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-039",
+      "section": "Precios",
+      "location": "Webapp / service-scope",
+      "current": "Tu idea, en funcionamiento.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-040",
+      "section": "Precios",
+      "location": "Webapp / Título h4",
+      "current": "Lo que hacemos realidad",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-041",
+      "section": "Precios",
+      "location": "Webapp / Punto de la lista",
+      "current": "Una herramienta online con funciones pensadas especialmente para lo que necesitás.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-042",
+      "section": "Precios",
+      "location": "Webapp / Punto de la lista",
+      "current": "Pantallas fáciles de usar para que las personas puedan realizar tareas sin complicaciones.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-043",
+      "section": "Precios",
+      "location": "Webapp / Punto de la lista",
+      "current": "Funciones para organizar información, gestionar procesos o interactuar con tus clientes.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-044",
+      "section": "Precios",
+      "location": "Webapp / Punto de la lista",
+      "current": "Tu propia dirección web y un correo con el nombre de tu negocio.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-045",
+      "section": "Precios",
+      "location": "Webapp / Punto de la lista",
+      "current": "La posibilidad de actualizar contenidos, conocer el uso de tu herramienta y conectarla con otros servicios.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-046",
+      "section": "Precios",
+      "location": "Webapp / Punto de la lista",
+      "current": "Acompañamiento para aprender a usarla y mantenerla funcionando.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-047",
+      "section": "Precios",
+      "location": "service-fit",
+      "current": "En las tres opciones",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > aside:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-048",
+      "section": "Precios",
+      "location": "Título h3",
+      "current": "Tu web, bien cuidada.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#shared-title",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-049",
+      "section": "Precios",
+      "location": "Descripción",
+      "current": "Dominio y alojamiento",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > aside:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-050",
+      "section": "Precios",
+      "location": "Punto de la lista",
+      "current": "Dominio ($945 anual)",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > aside:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-051",
+      "section": "Precios",
+      "location": "Punto de la lista",
+      "current": "Hosting (5 USD/mes con plan anual) (.uy gratis por 1 año)",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > aside:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-052",
+      "section": "Precios",
+      "location": "Punto de la lista",
+      "current": "50GB de Espacio en la Nube",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > aside:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-053",
+      "section": "Precios",
+      "location": "Punto de la lista",
+      "current": "Respaldos diarios",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > aside:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-054",
+      "section": "Precios",
+      "location": "Punto de la lista",
+      "current": "Protección antimalware",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > aside:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-PRECIOS-055",
+      "section": "Precios",
+      "location": "Descripción",
+      "current": "Los valores son orientativos. Cada proyecto se conversa y se presupuesta según lo que necesite.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-001",
+      "section": "Sobre nosotros",
+      "location": "Eyebrow",
+      "current": "Sobre nosotros",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-002",
+      "section": "Sobre nosotros",
+      "location": "Título h2",
+      "current": "Dos cabezas.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#team-title",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-003",
+      "section": "Sobre nosotros",
+      "location": "Título h2",
+      "current": "Un mismo",
+      "mapping": {
+        "kind": "text",
+        "selector": "#team-title",
+        "childIndex": 2
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-004",
+      "section": "Sobre nosotros",
+      "location": "Título h2",
+      "current": "equipo",
+      "mapping": {
+        "kind": "text",
+        "selector": "#team-title",
+        "childIndex": 4
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-005",
+      "section": "Sobre nosotros",
+      "location": "Descripción",
+      "current": "Somos Irina y Renzo. Unimos diseño y tecnología para que tener una web no sea un dolor de cabeza.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-006",
+      "section": "Sobre nosotros",
+      "location": "span",
+      "current": "Diseño",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-007",
+      "section": "Sobre nosotros",
+      "location": "span",
+      "current": "Tecnología",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(2)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-008",
+      "section": "Sobre nosotros",
+      "location": "figcaption",
+      "current": "El ojo creativo",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > figcaption:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-009",
+      "section": "Sobre nosotros",
+      "location": "team-role",
+      "current": "Diseño & experiencia",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-010",
+      "section": "Sobre nosotros",
+      "location": "Título h3",
+      "current": "Irina",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-011",
+      "section": "Sobre nosotros",
+      "location": "Descripción",
+      "current": "Que la web no solo sea linda: que se entienda, se sienta bien y tenga sentido para quien la usa.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-012",
+      "section": "Sobre nosotros",
+      "location": "figcaption",
+      "current": "El lado técnico",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > figcaption:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-013",
+      "section": "Sobre nosotros",
+      "location": "team-role",
+      "current": "Desarrollo & soluciones",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 1
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-014",
+      "section": "Sobre nosotros",
+      "location": "Título h3",
+      "current": "Renzo",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-015",
+      "section": "Sobre nosotros",
+      "location": "Descripción",
+      "current": "Transforma las ideas en algo que funciona. Se ocupa de la tecnología para que vos puedas ocuparte de tu negocio.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-016",
+      "section": "Sobre nosotros",
+      "location": "Descripción",
+      "current": "Vos nos contás qué necesitás.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-SOBRE_NOSOTROS-017",
+      "section": "Sobre nosotros",
+      "location": "Descripción",
+      "current": "Nosotros lo hacemos realidad, sin vueltas ni palabras raras.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-001",
+      "section": "Charlemos",
+      "location": "Eyebrow",
+      "current": "Charlemos",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contacto > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-002",
+      "section": "Charlemos",
+      "location": "contact-heading-note",
+      "current": "Todo empieza con una conversación.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contacto > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(2)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-003",
+      "section": "Charlemos",
+      "location": "Título h2",
+      "current": "Tu idea merece",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contact-title",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-004",
+      "section": "Charlemos",
+      "location": "Título h2",
+      "current": "salir de tu cabeza.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contact-title",
+        "childIndex": 2
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-005",
+      "section": "Charlemos",
+      "location": "Descripción",
+      "current": "No hace falta que tengas las respuestas.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contacto > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-006",
+      "section": "Charlemos",
+      "location": "Descripción",
+      "current": "Para eso estamos los dos.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contacto > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1)",
+        "childIndex": 2
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-007",
+      "section": "Charlemos",
+      "location": "Botón o enlace",
+      "current": "Contanos",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contacto > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-008",
+      "section": "Charlemos",
+      "location": "Botón o enlace",
+      "current": "tu idea",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contacto > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 2
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-009",
+      "section": "Charlemos",
+      "location": "small",
+      "current": "Por WhatsApp",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contacto > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > small:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-010",
+      "section": "Charlemos",
+      "location": "Descripción",
+      "current": "Irina & Renzo",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contacto > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > strong:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-CHARLEMOS-011",
+      "section": "Charlemos",
+      "location": "Descripción",
+      "current": "Del otro lado estamos nosotros.",
+      "mapping": {
+        "kind": "text",
+        "selector": "#contacto > div:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-FOOTER-001",
+      "section": "Footer",
+      "location": "Botón o enlace",
+      "current": "irina & renzo",
+      "mapping": {
+        "kind": "text",
+        "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-FOOTER-002",
+      "section": "Footer",
+      "location": "small",
+      "current": "Diseño + tecnología, sin complicaciones.",
+      "mapping": {
+        "kind": "text",
+        "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > small:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-FOOTER-003",
+      "section": "Footer",
+      "location": "small",
+      "current": "© 2026 Irina & Renzo",
+      "mapping": {
+        "kind": "text",
+        "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > small:nth-of-type(2)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "WEB-MODAL_DE_PROYECTOS-001",
+      "section": "Modal de proyectos",
+      "location": "Eyebrow",
+      "current": "Proyecto",
+      "mapping": {
+        "kind": "text",
+        "selector": "#project-modal > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    }
+  ],
+  "technical": [
+    {
+      "id": "ACC-NUESTROS_TRABAJOS-001",
+      "section": "Nuestros trabajos",
+      "location": "Ceremonia / Botón o enlace",
+      "current": ": Ceremonia",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "ACC-NUESTROS_TRABAJOS-002",
+      "section": "Nuestros trabajos",
+      "location": "Flytransfer / Botón o enlace",
+      "current": ": Flytransfer",
+      "mapping": {
+        "kind": "text",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "ACC-PRECIOS-001",
+      "section": "Precios",
+      "location": "Web Express / sr-only",
+      "current": "Ver u ocultar lo que incluye Web Express",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(1) > summary:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "ACC-PRECIOS-002",
+      "section": "Precios",
+      "location": "Web / sr-only",
+      "current": "Ver u ocultar lo que incluye Web",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(2) > summary:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "ACC-PRECIOS-003",
+      "section": "Precios",
+      "location": "Webapp / sr-only",
+      "current": "Ver u ocultar lo que incluye Webapp",
+      "mapping": {
+        "kind": "text",
+        "selector": "#precios > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > details:nth-of-type(3) > summary:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1)",
+        "childIndex": 0
+      }
+    },
+    {
+      "id": "ACC-HEADER-001",
+      "section": "Header",
+      "location": "Etiqueta accesible",
+      "current": "Irina y Renzo, inicio",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "ACC-HEADER-002",
+      "section": "Header",
+      "location": "Etiqueta accesible",
+      "current": "Abrir menú",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "ACC-HEADER-003",
+      "section": "Header",
+      "location": "Etiqueta accesible",
+      "current": "Navegación principal",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#main-nav",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "ACC-NUESTROS_TRABAJOS-003",
+      "section": "Nuestros trabajos",
+      "location": "Etiqueta accesible",
+      "current": "Proyecto Ceremonia",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1)",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "ACC-NUESTROS_TRABAJOS-004",
+      "section": "Nuestros trabajos",
+      "location": "Etiqueta accesible",
+      "current": "Ver proyecto Ceremonia",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > button:nth-of-type(1)",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "ACC-NUESTROS_TRABAJOS-005",
+      "section": "Nuestros trabajos",
+      "location": "Descripción de imagen",
+      "current": "Vista de la web de Ceremonia",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > button:nth-of-type(1) > img:nth-of-type(1)",
+        "attribute": "alt"
+      }
+    },
+    {
+      "id": "ACC-NUESTROS_TRABAJOS-006",
+      "section": "Nuestros trabajos",
+      "location": "Etiqueta accesible",
+      "current": "Proyecto Flytransfer",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2)",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "ACC-NUESTROS_TRABAJOS-007",
+      "section": "Nuestros trabajos",
+      "location": "Etiqueta accesible",
+      "current": "Ver proyecto Flytransfer",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > button:nth-of-type(1)",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "ACC-NUESTROS_TRABAJOS-008",
+      "section": "Nuestros trabajos",
+      "location": "Descripción de imagen",
+      "current": "Vista de la web de Flytransfer",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#trabajos > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > button:nth-of-type(1) > img:nth-of-type(1)",
+        "attribute": "alt"
+      }
+    },
+    {
+      "id": "ACC-SOBRE_NOSOTROS-001",
+      "section": "Sobre nosotros",
+      "location": "Etiqueta accesible",
+      "current": "Diseño más tecnología",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "ACC-SOBRE_NOSOTROS-002",
+      "section": "Sobre nosotros",
+      "location": "Descripción de imagen",
+      "current": "Irina",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "attribute": "alt"
+      }
+    },
+    {
+      "id": "ACC-SOBRE_NOSOTROS-003",
+      "section": "Sobre nosotros",
+      "location": "Descripción de imagen",
+      "current": "Renzo",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#nosotros > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "attribute": "alt"
+      }
+    },
+    {
+      "id": "ACC-CHARLEMOS-001",
+      "section": "Charlemos",
+      "location": "Etiqueta accesible",
+      "current": "Contanos tu idea por WhatsApp (abre en una pestaña nueva)",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#contacto > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "ACC-WHATSAPP_FLOTANTE-001",
+      "section": "WhatsApp flotante",
+      "location": "Etiqueta accesible",
+      "current": "Conversar con Irina y Renzo por WhatsApp",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "ACC-MODAL_DE_PROYECTOS-001",
+      "section": "Modal de proyectos",
+      "location": "Etiqueta accesible",
+      "current": "Cerrar proyecto",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "#project-modal > div:nth-of-type(1) > button:nth-of-type(1)",
+        "attribute": "aria-label"
+      }
+    },
+    {
+      "id": "SEO-TITLE",
+      "section": "SEO",
+      "location": "Título del navegador",
+      "current": "irina & renzo — Diseñemos tu web",
+      "mapping": {
+        "kind": "textContent",
+        "selector": "head title",
+        "attribute": null
+      }
+    },
+    {
+      "id": "SEO-DESCRIPTION",
+      "section": "SEO",
+      "location": "Descripción para buscadores",
+      "current": "Irina & Renzo. Diseñamos y construimos páginas web que hacen más fácil mostrar lo que hacés y conectar con tus clientes.",
+      "mapping": {
+        "kind": "attribute",
+        "selector": "meta[name=\"description\"]",
+        "attribute": "content"
+      }
+    }
+  ],
+  "messages": [
+    {
+      "id": "CONTACT-PHONE",
+      "section": "WhatsApp",
+      "location": "Número de destino",
+      "current": "+59893601542",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "WHATSAPP_NUMBER"
+      }
+    },
+    {
+      "id": "CONTACT-MESSAGE",
+      "section": "WhatsApp",
+      "location": "Mensaje prefabricado",
+      "current": "Hola, Irina y Renzo. Quiero conversar sobre una web.",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "message"
+      }
+    },
+    {
+      "id": "MENU-OPEN",
+      "section": "Header",
+      "location": "Etiqueta al abrir menú",
+      "current": "Abrir menú",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "menu-open"
+      }
+    },
+    {
+      "id": "MENU-CLOSE",
+      "section": "Header",
+      "location": "Etiqueta al cerrar menú",
+      "current": "Cerrar menú",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "menu-close"
+      }
+    },
+    {
+      "id": "MODAL-CEREMONIA",
+      "section": "Modal de proyectos",
+      "location": "Nombre del proyecto",
+      "current": "Ceremonia",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "project-ceremonia"
+      }
+    },
+    {
+      "id": "MODAL-FLYTRANSFER",
+      "section": "Modal de proyectos",
+      "location": "Nombre del proyecto",
+      "current": "Flytransfer",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "project-flytransfer"
+      }
+    },
+    {
+      "id": "MODAL-LOADING",
+      "section": "Modal de proyectos",
+      "location": "Aviso durante la carga",
+      "current": "Cargando {proyecto}…",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "loading"
+      }
+    },
+    {
+      "id": "MODAL-ERROR",
+      "section": "Modal de proyectos",
+      "location": "Error de carga",
+      "current": "No se pudo cargar el PDF. Cerrá el proyecto y volvé a abrirlo.",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "error"
+      }
+    },
+    {
+      "id": "PDF-REGION",
+      "section": "Modal de proyectos",
+      "location": "Etiqueta accesible del documento",
+      "current": "PDF de {proyecto}",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "pdf-region"
+      }
+    },
+    {
+      "id": "PDF-PRESENTATION",
+      "section": "Modal de proyectos",
+      "location": "Descripción de la presentación",
+      "current": "Presentación de {proyecto}",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "pdf-presentation"
+      }
+    },
+    {
+      "id": "PDF-TOP",
+      "section": "Modal de proyectos",
+      "location": "Etiqueta del botón de regreso",
+      "current": "Volver al inicio del PDF",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "pdf-top-label"
+      }
+    },
+    {
+      "id": "PDF-TOP-TITLE",
+      "section": "Modal de proyectos",
+      "location": "Ayuda del botón de regreso",
+      "current": "Volver al inicio",
+      "mapping": {
+        "kind": "javascript",
+        "file": "js/main.js",
+        "key": "pdf-top-title"
+      }
+    }
+  ],
+  "source": "index.html y js/main.js",
+  "version": "copy-2026-10-14"
+}

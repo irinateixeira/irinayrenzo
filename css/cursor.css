@@ -1,0 +1,15 @@
+/* A classic black arrow with a white outline, inspired by macOS. */
+@media (hover:hover) and (pointer:fine) and (forced-colors:none) {
+  :root body, :root body * {
+    cursor:url('../assets/cursors/macos-arrow.svg') 3 2, auto;
+  }
+  :root body :is(a, button:not(:disabled), summary, [role="button"], label[for]),
+  :root body :is(a, button:not(:disabled), summary, [role="button"], label[for]) * {
+    cursor:url('../assets/cursors/macos-hand.svg') 9 3, pointer;
+  }
+  :root body :is(input:not([type="button"]):not([type="submit"]), textarea, [contenteditable="true"]) {
+    cursor:text;
+  }
+  :root body button:disabled, :root body button:disabled * { cursor:not-allowed; }
+  :root body [aria-busy="true"], :root body [aria-busy="true"] * { cursor:progress; }
+}

@@ -1,0 +1,866 @@
+[
+  {
+    "id": "WEB-HEADER-001",
+    "current": "irina & renzo",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-HEADER-002",
+    "current": "Nuestros trabajos",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-HEADER-003",
+    "current": "Precios",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-HEADER-004",
+    "current": "Sobre nosotros",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-HEADER-005",
+    "current": "Charlemos",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-INICIO-001",
+    "current": "Diseñemos",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-INICIO-002",
+    "current": "tu web",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-INICIO-003",
+    "current": "Tenés una idea. Nosotros la convertimos en una web que se ve bien, se entiende fácil y trabaja para tu negocio.",
+    "edited": "Si tenés una idea, nosotros la convertimos en una web que se vea bien, se entienda fácil y trabaje para tu negocio.",
+    "notes": ""
+  },
+  {
+    "id": "WEB-INICIO-004",
+    "current": "Charlemos",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-INICIO-005",
+    "current": "No hace falta que sepas de tecnología para empezar.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-INICIO-006",
+    "current": "Seguí bajando",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-001",
+    "current": "Nuestros trabajos",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-002",
+    "current": "Nuestros",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-003",
+    "current": "trabajos",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-004",
+    "current": "Ideas distintas, soluciones a medida. Un vistazo a algunas webs que cobraron vida.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-005",
+    "current": "WEB EXPRESS / 01",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-006",
+    "current": "Ceremonia",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-007",
+    "current": "Ver proyecto",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-008",
+    "current": "Una web para transmitir la personalidad de un salón de belleza y ayudar a generar más reservas.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-009",
+    "current": "WEB / 02",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-010",
+    "current": "Flytransfer",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-011",
+    "current": "Ver proyecto",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-NUESTROS_TRABAJOS-012",
+    "current": "Una experiencia más clara para descubrir traslados y organizar un viaje sin complicaciones.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-001",
+    "current": "Precios",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-002",
+    "current": "Una web para",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-003",
+    "current": "cada momento",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-004",
+    "current": "No tenés que saber qué tipo de web necesitás. Contanos qué querés lograr y buscamos juntos la mejor opción.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-005",
+    "current": "Salir al mundo",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-006",
+    "current": "Web Express",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-007",
+    "current": "Para dar el primer paso: una página clara y atractiva con todo lo importante de tu negocio.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-008",
+    "current": "Desde USD",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-009",
+    "current": "290",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-010",
+    "current": "Todo lo que necesitás para empezar a mostrar tu negocio en internet. Una página clara, atractiva y fácil de usar, donde tus futuros clientes puedan conocerte y contactarte.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-011",
+    "current": "Una página. Todo lo esencial.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-012",
+    "current": "Lo que hacemos realidad",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-013",
+    "current": "Una página con toda la información importante de tu negocio, que se ve bien en cualquier dispositivo.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-014",
+    "current": "Formas de contacto fáciles de encontrar y una web preparada para aparecer en Google.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-015",
+    "current": "Tu propia dirección web y un correo con el nombre de tu negocio.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-016",
+    "current": "La posibilidad de cambiar textos e imágenes cuando quieras.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-017",
+    "current": "Herramientas para conocer tus visitas y conectar otros servicios.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-018",
+    "current": "Acompañamiento para aprender a usar tu web y mantenerla funcionando.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-019",
+    "current": "Tener espacio para contar",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-020",
+    "current": "Web",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-021",
+    "current": "Para contar más: un espacio propio con distintas páginas, servicios e información bien organizada.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-022",
+    "current": "Desde USD",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-023",
+    "current": "490",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-024",
+    "current": "Tu negocio tiene mucho para contar y merece un espacio a su medida. Una web con distintas secciones para mostrar tus servicios, responder dudas y ayudar a tus clientes a encontrar lo que buscan.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-025",
+    "current": "Más páginas. Más posibilidades.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-026",
+    "current": "Lo que hacemos realidad",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-027",
+    "current": "Una web con varias páginas para organizar toda la información de tu negocio.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-028",
+    "current": "Un diseño personalizado, fácil de recorrer desde el celular o la computadora.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-029",
+    "current": "Formas de contacto y una web preparada para aparecer en Google.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-030",
+    "current": "Tu propia dirección web y un correo con el nombre de tu negocio.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-031",
+    "current": "La posibilidad de actualizar contenidos, conocer tus visitas y conectar otras herramientas.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-032",
+    "current": "Acompañamiento para aprender a usar tu web y mantenerla funcionando.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-033",
+    "current": "Hacer que algo funcione",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-034",
+    "current": "Webapp",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-035",
+    "current": "Para hacer más: una herramienta online a medida que ayuda a tus clientes o simplifica tu trabajo.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-036",
+    "current": "Desde USD",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-037",
+    "current": "790",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-038",
+    "current": "¿Tenés una idea que necesita algo más que una página web? Creamos una herramienta a medida para que tus clientes puedan hacer cosas online o para simplificar tareas de tu negocio.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-039",
+    "current": "Tu idea, en funcionamiento.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-040",
+    "current": "Lo que hacemos realidad",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-041",
+    "current": "Una herramienta online con funciones pensadas especialmente para lo que necesitás.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-042",
+    "current": "Pantallas fáciles de usar para que las personas puedan realizar tareas sin complicaciones.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-043",
+    "current": "Funciones para organizar información, gestionar procesos o interactuar con tus clientes.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-044",
+    "current": "Tu propia dirección web y un correo con el nombre de tu negocio.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-045",
+    "current": "La posibilidad de actualizar contenidos, conocer el uso de tu herramienta y conectarla con otros servicios.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-046",
+    "current": "Acompañamiento para aprender a usarla y mantenerla funcionando.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-047",
+    "current": "En las tres opciones",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-048",
+    "current": "Tu web, bien cuidada.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-049",
+    "current": "Dominio y alojamiento",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-050",
+    "current": "Dominio ($945 anual)",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-051",
+    "current": "Hosting (5 USD/mes con plan anual) (.uy gratis por 1 año)",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-052",
+    "current": "50GB de Espacio en la Nube",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-053",
+    "current": "Respaldos diarios",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-054",
+    "current": "Protección antimalware",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-PRECIOS-055",
+    "current": "Los valores son orientativos. Cada proyecto se conversa y se presupuesta según lo que necesite.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-001",
+    "current": "Sobre nosotros",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-002",
+    "current": "Dos cabezas.",
+    "edited": "Dos personas.",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-003",
+    "current": "Un mismo",
+    "edited": "Un",
+    "notes": "Que quede un equipo solamente"
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-004",
+    "current": "equipo",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-005",
+    "current": "Somos Irina y Renzo. Unimos diseño y tecnología para que tener una web no sea un dolor de cabeza.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-006",
+    "current": "Diseño",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-007",
+    "current": "Tecnología",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-008",
+    "current": "El ojo creativo",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-009",
+    "current": "Diseño & experiencia",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-010",
+    "current": "Irina",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-011",
+    "current": "Que la web no solo sea linda: que se entienda, se sienta bien y tenga sentido para quien la usa.",
+    "edited": "Hace que la web no solo sea linda sino que se entienda, se sienta bien y tenga sentido para quien la usa.",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-012",
+    "current": "El lado técnico",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-013",
+    "current": "Desarrollo & soluciones",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-014",
+    "current": "Renzo",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-015",
+    "current": "Transforma las ideas en algo que funciona. Se ocupa de la tecnología para que vos puedas ocuparte de tu negocio.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-016",
+    "current": "Vos nos contás qué necesitás.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-SOBRE_NOSOTROS-017",
+    "current": "Nosotros lo hacemos realidad, sin vueltas ni palabras raras.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-001",
+    "current": "Charlemos",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-002",
+    "current": "Todo empieza con una conversación.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-003",
+    "current": "Tu idea merece",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-004",
+    "current": "salir de tu cabeza.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-005",
+    "current": "No hace falta que tengas las respuestas.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-006",
+    "current": "Para eso estamos los dos.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-007",
+    "current": "Contanos",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-008",
+    "current": "tu idea",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-009",
+    "current": "Por WhatsApp",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-010",
+    "current": "Irina & Renzo",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-CHARLEMOS-011",
+    "current": "Del otro lado estamos nosotros.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-FOOTER-001",
+    "current": "irina & renzo",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-FOOTER-002",
+    "current": "Diseño + tecnología, sin complicaciones.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-FOOTER-003",
+    "current": "© 2026 Irina & Renzo",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "WEB-MODAL_DE_PROYECTOS-001",
+    "current": "Proyecto",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-NUESTROS_TRABAJOS-001",
+    "current": ": Ceremonia",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-NUESTROS_TRABAJOS-002",
+    "current": ": Flytransfer",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-PRECIOS-001",
+    "current": "Ver u ocultar lo que incluye Web Express",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-PRECIOS-002",
+    "current": "Ver u ocultar lo que incluye Web",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-PRECIOS-003",
+    "current": "Ver u ocultar lo que incluye Webapp",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-HEADER-001",
+    "current": "Irina y Renzo, inicio",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-HEADER-002",
+    "current": "Abrir menú",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-HEADER-003",
+    "current": "Navegación principal",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-NUESTROS_TRABAJOS-003",
+    "current": "Proyecto Ceremonia",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-NUESTROS_TRABAJOS-004",
+    "current": "Ver proyecto Ceremonia",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-NUESTROS_TRABAJOS-005",
+    "current": "Vista de la web de Ceremonia",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-NUESTROS_TRABAJOS-006",
+    "current": "Proyecto Flytransfer",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-NUESTROS_TRABAJOS-007",
+    "current": "Ver proyecto Flytransfer",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-NUESTROS_TRABAJOS-008",
+    "current": "Vista de la web de Flytransfer",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-SOBRE_NOSOTROS-001",
+    "current": "Diseño más tecnología",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-SOBRE_NOSOTROS-002",
+    "current": "Irina",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-SOBRE_NOSOTROS-003",
+    "current": "Renzo",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-CHARLEMOS-001",
+    "current": "Contanos tu idea por WhatsApp (abre en una pestaña nueva)",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-WHATSAPP_FLOTANTE-001",
+    "current": "Conversar con Irina y Renzo por WhatsApp",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "ACC-MODAL_DE_PROYECTOS-001",
+    "current": "Cerrar proyecto",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "SEO-TITLE",
+    "current": "irina & renzo — Diseñemos tu web",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "SEO-DESCRIPTION",
+    "current": "Irina & Renzo. Diseñamos y construimos páginas web que hacen más fácil mostrar lo que hacés y conectar con tus clientes.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "CONTACT-PHONE",
+    "current": "+59893601542",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "CONTACT-MESSAGE",
+    "current": "Hola, Irina y Renzo. Quiero conversar sobre una web.",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "MENU-OPEN",
+    "current": "Abrir menú",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "MENU-CLOSE",
+    "current": "Cerrar menú",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "MODAL-CEREMONIA",
+    "current": "Ceremonia",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "MODAL-FLYTRANSFER",
+    "current": "Flytransfer",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "MODAL-LOADING",
+    "current": "Cargando {proyecto}…",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "MODAL-ERROR",
+    "current": "No se pudo cargar el PDF. Cerrá el proyecto y volvé a abrirlo.",
+    "edited": "No se pudo cargar el proyecto. Cerralo y volvé a abrirlo. ",
+    "notes": ""
+  },
+  {
+    "id": "PDF-REGION",
+    "current": "PDF de {proyecto}",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "PDF-PRESENTATION",
+    "current": "Presentación de {proyecto}",
+    "edited": "",
+    "notes": ""
+  },
+  {
+    "id": "PDF-TOP",
+    "current": "Volver al inicio del PDF",
+    "edited": "Volver al inicio del proyecto",
+    "notes": ""
+  },
+  {
+    "id": "PDF-TOP-TITLE",
+    "current": "Volver al inicio",
+    "edited": "",
+    "notes": ""
+  }
+]
